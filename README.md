@@ -1,4 +1,6 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Game programming and analysis
+# Game programming and analysis: applying some basic skills with Python
+
+This project it's gonna be based in the following Business Case.
 
 ## Business Case
 
@@ -33,23 +35,3 @@ We will be looking for the following things:
   3. Comfort with calculating basic descriptive statistics
 
 ---
-
-## Project Feedback + Evaluation
-
-For all projects, students will be evaluated on a simple 3 point scale (0, 1, or 2). Instructors will use this rubric when scoring student performance on each of the core project **requirements:**
-
-Score | Expectations
------ | ------------
-**0** | _Incomplete_
-**1** | _Does not meet expectations_
-**2** | _Meets expectations, good job!_
-
----
-
-## Useful Resources
-
-- This draws heavily on Python concepts from the first couple of days of class -- review those lessons!
-
-- Depending on which Python version you use, you may need to watch out for [unexpected division behavior](http://stackoverflow.com/questions/21316968/division-in-python-2-7-and-3-3).
-
-- For some questions, you may want to brush up on [list comprehensions](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/).
